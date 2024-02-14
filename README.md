@@ -9,7 +9,7 @@ Nous découvrirons ça ensemble.
 ## Concepts de bases
 Nous aborderons les concepts de base de React, comme le **V-dom**, le **JSX**, les **props** et les **hooks**, tout en mettant un accent fort sur la **composition**.
 ## Bonnes pratiques en programmation et en React
-Cette section se veut aussi **interactive !** Faisons participer l'audience :alléluia:
+Cette section se veut aussi **interactive !** Faisons participer l'audience 🙌
 ## Amour du code ou réponse au besoin ?
 Place au dialogue !
 ## Choix de la stack technique de GreenTwins
@@ -31,7 +31,7 @@ Graphiques D3
 ## - Vercel
 Déploiement
 ## Aller plus loin dans la stack ?
-#### NextJS, NextAuth, Prisma, Vercel Templates (:cœur:) ...
+#### NextJS, NextAuth, Prisma, Vercel Templates (❤️) ...
 ## Argument additionnel de taille
 Faisons un tour vers **javascript rising stars** !
 # Live coding ?
