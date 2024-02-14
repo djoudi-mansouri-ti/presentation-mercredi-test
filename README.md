@@ -26,6 +26,8 @@ Validation et schémas de données
 Création automatique de formulaires à partir de schémas Zod et de composants Shadcn
 ## - Zustand
 Gestion d'états globaux
+## - Tanstack React Query
+Gestion des appels API
 ## - Nivo.Rocks
 Graphiques D3
 ## - Vercel
